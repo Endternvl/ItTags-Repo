@@ -28,7 +28,7 @@ QClone | The Bot, Made By Skaryey
 
 ![GitHub Logo](https://raw.githubusercontent.com/Endternvl/Images/main/aaaa.png)
 
-## INVITE QCLONE!
-[Click ME To Invite QClone](https://discord.com/oauth2/authorize?client_id=815780538345717802&scope=bot&permissions=2147483647)
+## INVITE ItTags!
+[Click ME To Invite!](https://discord.com/oauth2/authorize?client_id=815780538345717802&scope=bot&permissions=2147483647)
 
-*NOTE! SOME COMMANDS MAY NOT WORKING. IF YOU CAN HELP US FIX THE COMMANDS, PLEASE DM `skaryey#5622` AND I WILL GIVE YOU A CREDIT :)
+**NOTE! SOME COMMANDS MAY NOT WORKING. IF YOU CAN HELP US FIX THE COMMANDS, PLEASE DM `skaryey#5622` AND I WILL GIVE YOU A CREDIT :)*
