@@ -116,7 +116,7 @@ return message.channel.send(`**:x: Please dont mention anyone**`);
  }
   message.channel.startTyping();
 if (!message.content) return message.channel.send("Please say something.");
-fetch(`https://api.affiliateplus.xyz/api/chatbot?message=${encodeURIComponent(message.content)}&botname=${client.user.username}&ownername=KHANMANAN#1000`)
+fetch(`https://api.affiliateplus.xyz/api/chatbot?message=${encodeURIComponent(message.content)}&botname=${client.user.username}&ownername=skaryey#5622`)
     .then(res => res.json())
     .then(data => {
         message.channel.send(`> ${message.content} \n <@${message.author.id}> ${data.message}`);
@@ -221,8 +221,8 @@ client.on("ready", () => {
 client.on("ready", () => {
   console.log(` ${client.user.username} online`);
   const status = [
-    `q!help | QClone`,
-    `q!help | ${client.users.cache.size} Users`
+    `#help | ItTags`,
+    `#help | ${client.users.cache.size} Users`
     ]
   setInterval(() => {
     client.user.setActivity(status[Math.floor(Math.random() * status.length)], {type : "WATCHING"})
