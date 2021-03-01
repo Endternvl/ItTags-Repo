@@ -20,7 +20,7 @@ module.exports = {
         .addField("Description", command.description || "Not Provided :(")
         .addField("Usage", "`" + command.usage + "`" || "Not Provied")
         .setThumbnail(client.user.displayAvatarURL())
-        .setColor("GREEN")
+        .setColor("RANDOM")
         .setFooter(client.user.username, client.user.displayAvatarURL());
 
       return message.channel.send(embed);
@@ -28,8 +28,8 @@ module.exports = {
       const commands = await client.commands;
 
       let emx = new MessageEmbed()
-        .setTitle("Qclone Commands")
-        .setDescription("Hello! I'm Qclone, By Skaryey. My Prefix is `q!`! for more info, type `q!help <command>` for example, q!help ban.")
+        .setTitle("Tag's Commands")
+        .setDescription("Hello! I'm ItTags, By Skaryey. My Prefix is `#`! for more info, type `#help <command>` for example, #help ban. Have Fun With ItTags!")
         .setColor("RANDOM")
         .setFooter(client.user.username, client.user.displayAvatarURL())
         .setThumbnail(client.user.displayAvatarURL())
