@@ -1,0 +1,7 @@
+{
+  "default_prefix": "q!",
+     
+ "YOUTUBE_API_KEY": "AIzaSyDPRyhrkJha7fPrjvfHUVdsKlQDOaGYAdk",
+    "QUEUE_LIMIT": 7,
+    "COLOR": "RANDOM"
+}
