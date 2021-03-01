@@ -1,33 +1,34 @@
-# QClone
-> a cool **MULTIFUNCTIONAL** Discord Bot
+# ItTags
+> Recommended **MULTIFUNCTIONAL** Discord Bot
  ### Let's look around!
 
 
- # Here is all of QClone's Coomand
+ # Here is all of Tag's Commands!
 
- - [x] NSFW Content Command
- - [x] Economy Command (some commands may not working)
- - [ ] Web Dashboard
+ - [x] NSFW Content Command (⚠ 18+ ONLY!)
+ - [x] Economy Command (some commands may not working... it's working on progress)
+ - [ ] Web Dashboard (Im noob at HTML and yeah.)
  - [x] Fun Command
  - [x] Moderation commands
- - [x] RRS (Reaction Roles)
+ - [ ] RRS (Reaction Roles. Maybe sometimes it will works.)
  - [x] Images!
  - [x] GiveAway Command!
- - [x] Info commands
+ - [x] Info commands!
 
 ----
-# Creators
+# Creators Page
 
 Creator's Name | Help Category
 ------------ | -------------
-Devil Services | Bug Fixer
-Khan manan | Some commands
+Devil Services | Bug Fixer and helper
+Khan manan | Some commands, also repository and bot ideas!
 !Bdrxzzzzzzz | Some commands
-Skaryey | Bot Creator, Leveling System, Mod System, Images, RRs.
+Skaryey | Bot Creator, Leveling System, Mod System, Images.
 QClone | The Bot, Made By Skaryey
-Skaryet | Help Coding, Some Commands.
 
-![GitHub Logo](https://cdn.discordapp.com/attachments/811066639579742249/813289145665323028/QClone_Title.png)
+![GitHub Logo](https://raw.githubusercontent.com/Endternvl/Images/main/aaaa.png)
 
 ## INVITE QCLONE!
-[Click ME To Invite QClone](https://discord.com/api/oauth2/authorize?client_id=808606035978878997&permissions=8&scope=bot)
+[Click ME To Invite QClone](https://discord.com/oauth2/authorize?client_id=815780538345717802&scope=bot&permissions=2147483647)
+
+*NOTE! SOME COMMANDS MAY NOT WORKING. IF YOU CAN HELP US FIX THE COMMANDS, PLEASE DM `skaryey#5622` AND I WILL GIVE YOU A CREDIT :)
