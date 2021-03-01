@@ -24,7 +24,7 @@ Devil Services | Bug Fixer and helper
 Khan manan | Some commands, also repository and bot ideas!
 !Bdrxzzzzzzz | Some commands
 Skaryey | Bot Creator, Leveling System, Mod System, Images.
-QClone | The Bot, Made By Skaryey
+ItTags | Bot. Bot is the creator too isn't it?... or no...
 
 ![GitHub Logo](https://raw.githubusercontent.com/Endternvl/Images/main/aaaa.png)
 
