@@ -7,7 +7,7 @@ const JworkR = Jwork[Math.floor(Math.random() * Jwork.length)];
 module.exports = {
    
         name: "work",
-        aliases: ["wr"],
+        aliases: ["wk"],
         category: "economy",
         description: "Work to Earn Money",
         usage: " ",
@@ -25,7 +25,7 @@ module.exports = {
 
             let timeEmbed = new MessageEmbed()
                 .setColor("GREEN")
-                .setDescription(`❌ You have already worked recently\n\nTry again in ${time.minutes}m ${time.seconds}s `);
+                .setDescription(`❌ You have already worked recently! do you wan't to get **FIRED?** \n\nTry again in ${time.minutes}m ${time.seconds}s `);
             message.channel.send(timeEmbed)
         } else {
             let amount = Math.floor(Math.random() * 80) + 1;
