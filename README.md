@@ -1,4 +1,4 @@
-# ItTags
+# ItTags (aka. Cloneley)
 > Recommended **MULTIFUNCTIONAL** Discord Bot
  ### Let's look around!
 
