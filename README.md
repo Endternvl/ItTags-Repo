@@ -38,4 +38,5 @@ ItTags | Bot. Bot is the creator too isn't it?... or no...
 - Do `git clone https://github.com/Endternvl/ItTags-Repo`
 - Then `npm i`
 - Then add a file named `.env`
-- Then fill the `.env` same as the `.env`
+- Then fill the `.env` same as the `.env-saxmple`
+- To run, do `node server.js`
