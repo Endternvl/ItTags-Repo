@@ -40,3 +40,5 @@ ItTags | Bot. Bot is the creator too isn't it?... or no...
 - Then add a file named `.env`
 - Then fill the `.env` same as the `.env-saxmple`
 - To run, do `node server.js`
+
+Please Credit Me :(
